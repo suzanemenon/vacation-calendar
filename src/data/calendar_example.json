@@ -1,0 +1,86 @@
+{
+  "source": "https://www.calendarr.com/brasil/calendario-2022/",
+  "events": [
+    {
+      "name": "Brazil carnival",
+      "type": "holiday",
+      "bridge": true,
+      "day": 1,
+      "month": 3,
+      "year": 22,
+      "day_of_week": 3
+    },
+    {
+      "name": "Quarta feira de cinzas",
+      "type": "holiday",
+      "bridge": false,
+      "day": 2,
+      "month": 3,
+      "year": 22,
+      "day_of_week": 4
+    },
+    {
+      "name": "Sexta feira santa",
+      "type": "holiday",
+      "bridge": false,
+      "day": 15,
+      "month": 4,
+      "year": 22,
+      "day_of_week": 6
+    },
+    {
+      "name": "Tiradentes",
+      "type": "holiday",
+      "bridge": true,
+      "day": 21,
+      "month": 4,
+      "year": 22,
+      "day_of_week": 5
+    },
+    {
+      "name": "Corpus Christi",
+      "type": "holiday",
+      "bridge": true,
+      "day": 16,
+      "month": 6,
+      "year": 22,
+      "day_of_week": 5
+    },
+    {
+      "name": "Brazil independence day",
+      "type": "holiday",
+      "bridge": false,
+      "day": 7,
+      "month": 9,
+      "year": 22,
+      "day_of_week": 4
+    },
+    {
+      "name": "Nossa Senhora Aparecida",
+      "type": "holiday",
+      "bridge": false,
+      "day": 12,
+      "month": 10,
+      "year": 22,
+      "day_of_week": 4
+    },
+    {
+      "name": "Finados",
+      "type": "holiday",
+      "bridge": false,
+      "day": 2,
+      "month": 11,
+      "year": 22,
+      "day_of_week": 4
+    },
+    {
+      "name": "Proclamação da República",
+      "type": "holiday",
+      "bridge": true,
+      "day": 15,
+      "month": 11,
+      "year": 22,
+      "day_of_week": 3
+    }
+  ]
+}
